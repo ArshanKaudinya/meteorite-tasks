@@ -1,0 +1,11 @@
+<webp xmlns="http://www.w3.org/2000/webp" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e2e8f0"></stop>
+      <stop offset="1" stop-color="#cbd5e1"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="40" fill="url(#g)"></rect>
+  <circle cx="128" cy="108" r="44" fill="#94a3b8"></circle>
+  <path d="M56 210c18-36 44-54 72-54s54 18 72 54" fill="#94a3b8"></path>
+</webp>
